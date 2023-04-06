@@ -5,7 +5,7 @@
 
 💻 Linguagem de Programação: C <br>
 
-📄 <a class="btn btn-primary" href="https://www.programiz.com/c-programming/online-compiler/" role="button" target="blank">Compilador Online C</a> 
+📄 <a href="https://www.programiz.com/c-programming/online-compiler/" target="_blank">Compilador Online C</a> 
 
 <hr>
 🏫 Colégio: Cleoracy Aparecida Gil <br>
